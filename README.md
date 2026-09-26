@@ -1,5 +1,5 @@
 # Moka Cafe Social
 
-Static GitHub Pages build for https://github.com/mokaX6/Social-app.
+Static social app for GitHub Pages.
 
-The app uses browser LocalStorage for its local data and is built for the repository path /Social-app/.
+The app stores its data locally in the browser and keeps the original project structure at the repository root.
